@@ -6,12 +6,12 @@ An entreprenuer has developed a business proposal for a surf and ice cream shop 
 - There were 1700 temperature data points for June
 - Data coverred a temporal range of 2010 to 2017
 - Summary statistics for temperature are displayed below.
-- ![June summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
+  ![June summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
 ### December Temperature Data
 - There were 1517 temperature data points for December
 - Data covered a temporal range of 2010 to 2016
 - Summary statistics for temperature are displayed below.
-- ![December summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
+  ![December summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
 ### Key Differences
 1) There are 183 more data points for June than for December.
 2) The minimum temperature in June is 64 degrees Farenheit whereas the minimum temperature for December is 56 degress Farenheit.
@@ -23,8 +23,8 @@ An entreprenuer has developed a business proposal for a surf and ice cream shop 
 - While this analysis features summary statistics on bulk data, it does not sufficiently capture shifting annual temperature trends. Even if only 25% of the temperature values are below 69 degrees Farenheit in December, are these data points distributed evenly across years? Or are those data points more focused in recent years? Also, half of the business is a surf shop. Are water temperatures in December as warm as air temperatures? Or is the water too cold for surfing? Is there more precipitation in December that might deter customers from patronizing the business? These and other questions should be addressed prior to investment commitments.
 ### Additional Queries
 - To address remaining questions on weather data, the following queries could be considered:
-- 1) Bin temperature data for June and December according to the year data was collected.
-- 2) Compare precipitation data for June and December to see if rainier weather might limit customers to a surf and ice cream shop.
+  - 1) Bin temperature data for June and December according to the year data was collected.
+  - 2) Compare precipitation data for June and December to see if rainier weather might limit customers to a surf and ice cream shop.
 
 
 
