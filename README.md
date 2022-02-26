@@ -6,11 +6,13 @@ An entreprenuer has developed a business proposal for a surf and ice cream shop 
 - There were 1700 temperature data points for June
 - Data coverred a temporal range of 2010 to 2017
 - Summary statistics for temperature are displayed below.
+  
   ![June summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
 ### December Temperature Data
 - There were 1517 temperature data points for December
 - Data covered a temporal range of 2010 to 2016
 - Summary statistics for temperature are displayed below.
+  
   ![December summary statistics for temperature](https://github.com/InRegards2Pluto/surfs_up/blob/fae7841ba3052719b9b388dd993e28dce26592cd/Resources/sum_stats_temp_June.png)
 ### Key Differences
 1) There are 183 more data points for June than for December.
